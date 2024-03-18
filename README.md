@@ -17,5 +17,5 @@ ThreatHub uses the VirusTotal API to detect known threats on a machine by scanni
 * VirusTotal API key
 ## DEMO
 **Target**: EICAR test file
-https://github.com/DragosRadut/ThreatHub/assets/95036874/a1706731-54b9-4317-a3b9-e1796d36bb0d
+[![Watch the video](https://github.com/DragosRadut/ThreatHub/assets/95036874/a1706731-54b9-4317-a3b9-e1796d36bb0d)
 
